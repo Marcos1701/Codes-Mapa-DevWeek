@@ -108,7 +108,11 @@ body {
     padding-right: 15px;
 }
 
-.informacoes-abas .descricao span {
+.informacoes-abas .descricao .apresentacao {
+    color: #FF0000;
+}
+
+.informacoes-abas .descricao .desafios {
     color: #07df2b;
 }
 
